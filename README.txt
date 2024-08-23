@@ -1,3 +1,6 @@
+git add file_name
+git add . (add all files)
+git commit -a -m "commit massege" // commit all file 
 program001      Hello world program in java 
                     Hello World!!
 program002      Addition of two numbers input given by user
